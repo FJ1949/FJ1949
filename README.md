@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @FJ1949
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-FJ1949/FJ1949 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# NAME: OKX
+# AUTHOR: fj1949
+# REPO: https://github.com/fj1949
+# UPDATED: 2023-12-14 17:00:02
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
