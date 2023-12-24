@@ -1,6 +1,6 @@
 # NAME: OKX
 # AUTHOR: fj1949
-# REPO: https://raw.githubusercontent.com/fj1949/ios_rule_script/master/rule/Shadowrocket/OKX/OKX.list
+# REPO: https://github.com/fj1949/ios_rule_script/master/rule/Shadowrocket/OKX/OKX.list
 # UPDATED: 2023-12-14 17:00:02
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
